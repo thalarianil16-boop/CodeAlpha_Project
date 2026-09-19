@@ -1,0 +1,13 @@
+Review,Sentiment_Score,Sentiment,Emotion
+This product is absolutely amazing and I love it.,0.861,Positive,Happy
+The quality is excellent and I am very happy.,0.8268,Positive,Happy
+"Great product, I would definitely recommend it.",0.8519,Positive,Happy
+"The product is okay, nothing special.",-0.092,Negative,Neutral
+It works fine but could be better.,0.6428,Positive,Neutral
+I am not satisfied with this product.,-0.3252,Negative,Neutral
+The quality is very poor and disappointing.,-0.7818,Negative,Sad
+I hate this product. It is terrible.,-0.7783,Negative,Angry
+The product stopped working after two days.,-0.2263,Negative,Neutral
+I am extremely happy with my purchase.,0.6115,Positive,Happy
+The delivery was fast and the product is wonderful.,0.5719,Positive,Happy
+The product is average.,0.0,Neutral,Neutral
